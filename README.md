@@ -1,7 +1,7 @@
-# A-Star Search Simulation
-# Nicholas Pickering
-# CAP4620 Intro to Artificial Intelligence
-# Dr. Chuan, UNF
+## A-Star Search Simulation
+### Nicholas Pickering
+### CAP4620 Intro to Artificial Intelligence
+### Dr. Chuan, University of North Florida
 
 This program simulates a search for the shortest path between two points, in a space filled with convex
 polygonal obstacles.
